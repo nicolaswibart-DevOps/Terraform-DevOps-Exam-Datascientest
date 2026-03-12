@@ -1,4 +1,4 @@
-ssh_key_name = "Datascientest"
+ssh_key_name = "XXXXXX" # --> à définir
 
 db_username = "wpuser"
-db_password = "MotDePasseSuperSecure123!"
+db_password = "XXXXXX" # --> à définir
